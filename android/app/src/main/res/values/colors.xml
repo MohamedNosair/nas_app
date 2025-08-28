@@ -1,0 +1,8 @@
+<resources>
+    <!-- Set default color for all notification's accent color -->
+    <!-- Color format is in ARGB. -->
+    <color name="notification_color">#FF2EB0FE</color>
+
+    <!-- Use from `env.props` file instead -->
+    <!-- <color name="notification_color">#FF2EB0FE</color> -->
+</resources>

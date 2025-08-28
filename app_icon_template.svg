@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle with primary color -->
+  <circle cx="512" cy="512" r="480" fill="#ffb617" stroke="#373838" stroke-width="8"/>
+  
+  <!-- Example: Shopping cart icon -->
+  <g transform="translate(512, 512)" fill="#373838">
+    <!-- Cart body -->
+    <path d="M-120 -80 L120 -80 L140 -40 L180 -40 L200 0 L-200 0 L-180 -40 L-140 -40 Z" fill="#373838"/>
+    
+    <!-- Cart handle -->
+    <path d="M-120 -80 L-120 -120 L-80 -120 L-80 -80" stroke="#373838" stroke-width="12" fill="none"/>
+    <path d="M80 -80 L80 -120 L120 -120 L120 -80" stroke="#373838" stroke-width="12" fill="none"/>
+    
+    <!-- Cart wheels -->
+    <circle cx="-80" cy="20" r="20" fill="#373838"/>
+    <circle cx="80" cy="20" r="20" fill="#373838"/>
+    
+    <!-- Shopping bag -->
+    <rect x="-60" y="-60" width="120" height="80" rx="10" fill="#373838"/>
+    
+    <!-- Bag handle -->
+    <path d="M-40 -60 L-40 -80 L40 -80 L40 -60" stroke="#ffb617" stroke-width="8" fill="none"/>
+  </g>
+  
+  <!-- Alternative: Simple "S" letter design -->
+  <!-- Uncomment the following group and comment the shopping cart above for a different design -->
+  <!--
+  <g transform="translate(512, 512)" fill="#373838">
+    <path d="M-80 -120 C-80 -160, -40 -200, 0 -200 C40 -200, 80 -160, 80 -120 C80 -80, 40 -40, 0 -40 C-40 -40, -80 -80, -80 -120 Z" fill="none" stroke="#373838" stroke-width="20"/>
+    <path d="M0 -200 L0 -240" stroke="#373838" stroke-width="20" stroke-linecap="round"/>
+    <path d="M0 200 L0 240" stroke="#373838" stroke-width="20" stroke-linecap="round"/>
+  </g>
+  -->
+</svg>
+
+
+
+

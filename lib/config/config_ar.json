@@ -1,0 +1,567 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "logo",
+            "showLogo": true,
+            "showMenu": true,
+            "showSearch": false
+        },
+        {
+            "type": "icon",
+            "wrap": false,
+            "horizontalItem": true,
+            "layout": "category",
+            "marginLeft": 16.0,
+            "marginRight": 16.0,
+            "marginTop": 0.0,
+            "marginBottom": 0.0,
+            "separateWidth": 24.0,
+            "font": "Cairo",
+            "FontFamily": "Cairo",
+            "shadow": null,
+            "items": [
+                {
+                    "category": 37,
+                    "image": ""
+
+                },
+                {
+                    "category": 3,
+                    "image": ""
+
+                },
+                {
+                    "category": 26,
+                    "image": ""
+                },
+                {
+                    "category": 1,
+                    "image": ""
+                },
+                {
+                    "category": 24,
+                    "image": ""
+                },
+                {
+                    "category": 30,
+                    "image": ""
+                },
+                {
+                    "category": 27,
+                    "image": ""
+                },
+                {
+                    "category": 6,
+                    "image": ""
+                },
+                {
+                    "category": 7,
+                    "image": ""
+                },
+                {
+                    "category": 25,
+                    "image": ""
+                },
+                {
+                    "category": 34,
+                    "image": ""
+                },
+                {
+                    "category": 4,
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "design": "default",
+            "showBackGround": true,
+            "radius": 2.0,
+            "font": "Cairo",
+            "FontFamily": "Cairo",
+            "items": [
+
+            ],
+            "itemsWeb": [
+                {
+                    "category": 29,
+                    "image": "https://cln.sh/41hyDrzG+",
+                    "padding": 15.0
+                },
+                {
+                    "category": 28,
+                    "image": "https://cln.sh/5nl2ZsKG+",
+                    "padding": 15.0
+                },
+                {
+                    "product": 30,
+                    "image": "https://cln.sh/q24Xpr1c+",
+                    "padding": 15.0
+                }
+            ]
+        },
+        {
+            "layout": "category",
+            "type": "twoRow",
+            "wrap": true,
+            "useFor": "web",
+            "showShortDescription": true,
+            "size": 1.0,
+            "radius": 150.0,
+            "title": "Shop by category",
+            "spacing": 12.0,
+            "font": "Cairo",
+            "FontFamily": "Cairo",
+            "items": [
+                {
+                    "category": "25",
+                    "image": "https://mstore.io/wp-content/uploads/2017/06/poster.png",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Blazers",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "29",
+                    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Jeans",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "28",
+                    "image": "https://images.unsplash.com/photo-1594587639781-a68a2796bb90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Jacket",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "18",
+                    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Suit",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "26",
+                    "image": "https://images.unsplash.com/photo-1618932260643-eee4a2f652a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Dress",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "24",
+                    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=738&q=80",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Bag",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "20",
+                    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Glasses",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "22",
+                    "image": "https://images.unsplash.com/photo-1531399395381-6603d3b9899f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=719&q=80",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Hat",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "23",
+                    "image": "https://images.unsplash.com/photo-1604508230015-5a54faf1fa56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "T-Shirt",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "29",
+                    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Jeans",
+                    "onSale": false,
+                    "isFeatured": false
+                }
+            ],
+            "line": false,
+            "marginLeft": 16.0,
+            "marginRight": 16.0,
+            "marginTop": 10.0,
+            "marginBottom": 10.0,
+            "paddingX": 10.0,
+            "paddingY": 10.0,
+            "marginX": 0.0,
+            "marginY": 0.0,
+            "hideTitle": false,
+            "noBackground": false,
+            "imageBorderWidth": 0.0,
+            "imageBorderColor": "ffe61a00",
+            "imageBorderStyle": "dot",
+            "imageSpacing": 0.0,
+            "border": 0.6,
+            "enableBorder": false,
+            "textAlignment": "topCenter",
+            "imageBoxFit": "fitWidth",
+            "columns": 4,
+            "itemSize": {
+                "width": 270.0,
+                "height": 118.0
+            }
+        },
+        {
+            "layout":"bannerSlider",
+            "name":"اخبار رئيسية ⚡",
+            "enableBackground":false,
+            "padding":16.0,
+            "innerPadding":16.0,
+            "radius":0.0,
+            "hideTitle":false,
+            "hideAuthor":false,
+            "hideDate":false,
+            "hideComment":false,
+            "showOnlyImage":false,
+            "hMargin":6.0,
+            "vMargin":0.0,
+            "isSnapping":false,
+            "cardDesign":"simple",
+            "category":"3,37,26,1,8,32,24,30,27,6,25,7,33,10,4,34,5,28,9,29,36",
+            "enableAutoSliding":false,
+            "imageBorder":3.0,
+            "orderby":"date",
+            "order":"desc",
+            "slider": {
+                "type": "contentEndCard",
+                "paddingContent": null,
+                "borderRadius": 10.0,
+                "colorTag": null,
+                "colorTextTag": null,
+                "pageIndicatorType": "line",
+                "hideTag": false,
+                "autoPlay": true,
+                "secondsAutoSliding": 5,
+                "borderRadiusTag": 5.0,
+                "limitIndicator": 5
+            },
+            "include":[
+            ]
+        },
+        {
+            "layout": "sliderList",
+            "type": "imageOnTheRight",
+            "name": "أخبار العالم",
+            "category": 3,
+            "imageBorder": 20
+        },
+        {
+            "layout": "card",
+            "name": "أخبار فلسطينية",
+            "category": 37
+        },
+        {
+            "name": "سياسة",
+            "image": "",
+            "layout": "twoColumn",
+            "category": 25
+        }, {
+            "name": "مدارس وكليات",
+            "image": "",
+            "layout": "twoColumn",
+            "category": 28
+        }, {
+            "name": "اخبار المجالس",
+            "image": "",
+            "layout": "twoColumn",
+            "category": 26
+        },
+        {
+            "name": "اقتصاد",
+            "image": "",
+            "layout": "twoColumn",
+            "category": 8
+        },
+        {
+            "name": "رياضة",
+            "image": "",
+            "layout": "twoColumn",
+            "category": 6
+        },
+        {
+            "layout": "sliderList",
+            "type": "",
+            "name": "قلوب حائرة",
+            "category": 34
+        },
+        {
+            "name": "فيديو",
+            "image": "",
+            "layout": "twoColumn",
+            "limit": 20,
+            "category": 4
+        },
+        {
+            "layout": "bannerGrid",
+            "startImage": "https://cln.sh/v88KWKn1+",
+            "endImage": "https://cln.sh/msXl6bll+",
+            "centerImage": "https://cln.sh/K84GT5PB+",
+            "centerTopImage": "https://cln.sh/SSXPYGCB+",
+            "centerBottomImage": "https://cln.sh/MZF24H9H+",
+            "borderRadius": 8.0,
+            "blog": 8743
+        }
+    ],
+    "Setting": {
+        "MainColor": "#ffb617",
+        "FontHeader": "Cairo",
+        "FontFamily": "Cairo",
+        "ProductListLayout": "list",
+        "StickyHeader": false,
+        "ShowChat": true,
+        "useMaterial3": false,
+        "AgeRestriction": {
+            "enable": false,
+            "imageUrl": "",
+            "backgroundImageUrl": "",
+            "title": "Welcome to our shop\nYou must be 21 or older to enter",
+            "deniedMessage": "You are not of legal age to use this application",
+            "hintMessage": "What is your year of birth?",
+            "minimumAge": 21,
+            "useLogo": true,
+            "alwaysShowUponOpen": true
+        },
+        "AboutUS": "https://anas.co.il/%d8%b9%d9%86-%d8%a7%d9%84%d9%86%d8%a7%d8%b3/",
+        "Privacy": "https://anas.co.il/%d8%b9%d9%86-%d8%a7%d9%84%d9%86%d8%a7%d8%b3/#",
+        "FAQ": "https://anas.co.il/%d8%b9%d9%86-%d8%a7%d9%84%d9%86%d8%a7%d8%b3/#",
+        "News": "https://anas.co.il/",
+        "Support": "https://anas.co.il/%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d9%85%d8%b9%d9%86%d8%a7/",
+        "DownloadApp": "https://anas.co.il/",
+        "SmartEngagementBanner": {
+            "popup": {
+                "enable": false,
+                "data": {
+                    "layout": "bannerImage",
+                    "design": "static",
+                    "fit": "fitHeight",
+                    "marginLeft": null,
+                    "items": [
+                        {
+                            "image": "https://i.imgur.com/ZL1LO75.png",
+                            "showSubcategory": false,
+                            "bannerWithProduct": false,
+                            "defaultShowProduct": false,
+                            "products": [],
+                            "category": "22",
+                            "padding": 0.0
+                        }
+                    ],
+                    "marginBottom": 10.0,
+                    "height": 0.45,
+                    "marginRight": null,
+                    "marginTop": 10.0,
+                    "enableParallax": false,
+                    "parallaxImageRatio": 1.2,
+                    "isHorizontal": false,
+                    "parallax": false,
+                    "key": "p2oq4zc4hg"
+                },
+                "alwaysShowUponOpen": true,
+                "closePosition": "topRight",
+                "updatedTime": 1661314494281
+            },
+            "flexible": {
+                "enable": false,
+                "data": {
+                    "alignment": "topCenter",
+                    "marginTop": 0.0,
+                    "marginBottom": 0.0,
+                    "items": [
+                        {
+                            "image": "https://assets9.lottiefiles.com/private_files/lf30_a4mKwA.json",
+                            "width": 100.0,
+                            "height": 80.0,
+                            "borderRadius": 2.0,
+                            "marginLeft": 0.0,
+                            "marginRight": 0.0,
+                            "textFontSize": 14.0,
+                            "useMaxWidth": true,
+                            "navigator": {
+                                "showSubcategory": false,
+                                "coupon": "blackf"
+                            }
+                        }
+                    ],
+                    "layout": "button"
+                },
+                "canDrag": true,
+                "canClose": true,
+                "width": 100.0,
+                "height": 100.0
+            },
+            "sticky": {
+                "enable": false,
+                "data": {
+                    "layout": "bannerImage",
+                    "design": "static",
+                    "fit": "fitWidth",
+                    "marginLeft": 10.0,
+                    "items": [
+                        {
+                            "image": "https://i.imgur.com/LUaEM3v.jpeg",
+                            "showSubcategory": false,
+                            "bannerWithProduct": false,
+                            "defaultShowProduct": false,
+                            "products": [],
+                            "coupon": "halfprice",
+                            "padding": 0.0,
+                            "radius": 9.0
+                        }
+                    ],
+                    "marginBottom": 10.0,
+                    "marginRight": 10.0,
+                    "marginTop": 10.0,
+                    "height": 0.2,
+                    "enableParallax": false,
+                    "parallaxImageRatio": 1.2,
+                    "isHorizontal": false,
+                    "parallax": false,
+                    "key": "ga8oe39k5t"
+                }
+            }
+        }
+    },
+    "TabBar": [
+        {
+            "layout": "home",
+            "icon": "assets/icons/tabs/icon-home.png",
+            "fontFamily": "Cairo"
+        },
+        {
+            "layout": "category",
+            "categoryLayout": "card",
+            "icon": "assets/icons/tabs/icon-category.png",
+            "showSearch": false,
+            "fontFamily": "Cairo"
+
+        },
+        {
+            "layout": "search",
+            "icon": "assets/icons/tabs/icon-search.png",
+            "fontFamily": "Cairo"
+
+        },
+        {
+            "layout": "profile",
+            "icon": "assets/icons/tabs/icon-user.png",
+            "showChat": true,
+            "showBackground": true,
+            "styleItem": "listTile",
+            "settingStyle": "normal",
+            "fontFamily": "Cairo"
+
+        }
+    ],
+    "searchSuggestion": [
+        "Here are some suggestions:",
+        "Print",
+        "T-Shirt",
+        "Jersey",
+        "Hoodie",
+        "Man",
+        "Wonman",
+        "Child",
+        "Sale"
+    ],
+    "PrivacyPoliciesPageUrlOrId": "https://anas.co.il/privacy/",
+    "MetaSeo": {
+        "app": {
+            "excludes": [
+                "checkout"
+            ],
+            "config": {
+                "author": "InspireUI",
+                "description": "All-in-one mobile solutions and services for Startups, Developers, Entrepreneurs & more…",
+                "keywords": [
+                    "Flutter",
+                    "Dart",
+                    "SEO",
+                    "Meta",
+                    "Web",
+                    "FluxStore",
+                    "FluxBuilder"
+                ]
+            }
+        },
+        "routes": [
+            {
+                "route": "dashboard",
+                "config": {
+                    "author": "InspireUI",
+                    "description": "All-in-one mobile solutions and services for Startups, Developers, Entrepreneurs & more…",
+                    "keywords": [
+                        "Flutter",
+                        "Dart",
+                        "SEO",
+                        "Meta",
+                        "Web",
+                        "FluxStore"
+                    ]
+                }
+            }
+        ]
+    },
+    "overrideTranslation": {
+        "@@locale": "ar",
+        "copyright": "Copyright © 2024 Alnas Ltd. All rights reserved."
+    }
+}
