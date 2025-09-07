@@ -14,7 +14,6 @@
     <!-- Use for showing notification -->
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
-
     <!-- Use for photo gallery feature -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
