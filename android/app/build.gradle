@@ -103,7 +103,7 @@ android {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId envProperties.getProperty('androidPackageName', '')
         minSdkVersion 23
-        targetSdkVersion 34
+        targetSdkVersion 35
         
         // Enable multidex to fix DEX file issues
         multiDexEnabled true
